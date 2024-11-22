@@ -1,2 +1,2 @@
-# Flash Cards Manager Script
-Automatically created module for IPython interactive environment
+
+[Paste the full Python script provided in the question here.]
